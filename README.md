@@ -1,4 +1,4 @@
-# meu-primeiro-repositorio
+# primeiro-repositorio
 repositorio criado para pong
 
 
